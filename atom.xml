@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[My take on the world]]></title>
   <link href="http://frakentoaster.github.io/atom.xml" rel="self"/>
   <link href="http://frakentoaster.github.io/"/>
-  <updated>2015-08-19T10:44:07-07:00</updated>
+  <updated>2015-08-19T13:34:19-07:00</updated>
   <id>http://frakentoaster.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Google vs the Human Condition]]></title>
+    <link href="http://frakentoaster.github.io/blog/2015/08/19/google-vs-the-human-condition/"/>
+    <updated>2015-08-19T13:00:09-07:00</updated>
+    <id>http://frakentoaster.github.io/blog/2015/08/19/google-vs-the-human-condition</id>
+    <content type="html"><![CDATA[<h2>This is some dummy text</h2>
+<!-- more -->
+<h3>This is an h3</h3>
+<p>This is a p tag</p>
+<hr> 
+<a href="#">This is a link</a>
+]]></content>
+  </entry>
   
 </feed>
