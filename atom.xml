@@ -4,7 +4,7 @@
   <title><![CDATA[My Take on the World]]></title>
   <link href="http://frakentoaster.github.io/atom.xml" rel="self"/>
   <link href="http://frakentoaster.github.io/"/>
-  <updated>2015-08-19T14:04:47-07:00</updated>
+  <updated>2015-08-19T15:42:46-07:00</updated>
   <id>http://frakentoaster.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,12 +18,25 @@
     <link href="http://frakentoaster.github.io/blog/2015/08/19/google-vs-the-human-condition/"/>
     <updated>2015-08-19T13:00:09-07:00</updated>
     <id>http://frakentoaster.github.io/blog/2015/08/19/google-vs-the-human-condition</id>
-    <content type="html"><![CDATA[<h2>This is some dummy text</h2>
+    <content type="html"><![CDATA[<p>	
+	Google's co-founder Larry Page recently announced the reorganizing of Google as Alphabet, and it's mission to fight some of mankind's most basic ailments.
+</p>
 <!-- more -->
-<h3>This is an h3</h3>
-<p>This is a p tag</p>
-<hr>
-<a href="#">This is a link</a>
+<p>
+	We all know Google, as the billionaire tech giant who dominates internet searches. What many may not realize is they are much much more.
+</p>
+<p>
+	From their own programming language Go to self-driving cars, Google seems to dominate technology. The industry goliath, with all their brilliant scientists and engineers now turn their focus on the prevention of disease.
+</p>
+<p>
+	While that may come as a surprise to some, this has really been a long time coming. Ever hear of Google X?
+	Google X is a facility of research that encompasses Artificial Intelligence, Computational neuroscience, Health care and Biotechnology and was founded back in 2010.
+	The Life Sciences division at Google X has been researching medicine for some time now. Under Alphabet, problems with human affliction will no longer just be a side project. It will be their guiding mission.
+</p>
+<p>
+	Google has many divisions and projects going on. Too many to be covered with one blog post.
+	To learn more about Google's fantastic "moonshots" and how you can play a part in the future, check out: 
+</p>
 ]]></content>
   </entry>
   
