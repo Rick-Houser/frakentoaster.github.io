@@ -4,7 +4,7 @@
   <title><![CDATA[My Take on the World]]></title>
   <link href="http://frakentoaster.github.io/atom.xml" rel="self"/>
   <link href="http://frakentoaster.github.io/"/>
-  <updated>2015-08-19T15:42:46-07:00</updated>
+  <updated>2015-08-19T16:09:01-07:00</updated>
   <id>http://frakentoaster.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -24,8 +24,6 @@
 <!-- more -->
 <p>
 	We all know Google, as the billionaire tech giant who dominates internet searches. What many may not realize is they are much much more.
-</p>
-<p>
 	From their own programming language Go to self-driving cars, Google seems to dominate technology. The industry goliath, with all their brilliant scientists and engineers now turn their focus on the prevention of disease.
 </p>
 <p>
@@ -35,7 +33,7 @@
 </p>
 <p>
 	Google has many divisions and projects going on. Too many to be covered with one blog post.
-	To learn more about Google's fantastic "moonshots" and how you can play a part in the future, check out: 
+	To learn more about Google's fantastic "moonshots" and how you can play a part in the future, check out some of their <a href="https://www.solveforx.com/search/moonshots">projects here.</a>
 </p>
 ]]></content>
   </entry>
