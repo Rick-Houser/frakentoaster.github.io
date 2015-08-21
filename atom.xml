@@ -4,7 +4,7 @@
   <title><![CDATA[My Take on the World]]></title>
   <link href="http://frakentoaster.github.io/atom.xml" rel="self"/>
   <link href="http://frakentoaster.github.io/"/>
-  <updated>2015-08-19T17:49:02-07:00</updated>
+  <updated>2015-08-21T00:04:29-07:00</updated>
   <id>http://frakentoaster.github.io/</id>
   <author>
     <name><![CDATA[Rick Houser]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Leave Your Mark on Mars (via NASA)]]></title>
+    <link href="http://frakentoaster.github.io/blog/2015/08/20/leave-your-mark-on-mars/"/>
+    <updated>2015-08-20T21:53:26-07:00</updated>
+    <id>http://frakentoaster.github.io/blog/2015/08/20/leave-your-mark-on-mars</id>
+    <content type="html"><![CDATA[<p>
+	NASA announced it will be accepting names to board the InSight spacecraft on its upcoming mission to Mars.
+</p>
+<!-- more -->
+<p>
+	In 1977 NASA sent its first time capsule of sorts into deep space.
+	Aboard Voyager 1 and Voyager 2 are <a href="http://voyager.jpl.nasa.gov/spacecraft/goldenrec.html">discs made of gold</a> that hold images and sounds from Earth. While Voyager 2 is now in the outermost layer of the heliosphere, Voyager 1 has left our solar system and is now in interstellar space.
+</p>
+<p>
+	If you missed the opportunity back in '77 or if you weren't around at the time like myself, now is your chance to leave your mark in space all without taking a day off work.
+</p>
+<p>
+	NASA will be sending a silicon microchip containing the names of those wanting to take part. In March of 2016, the spacecraft InSight will launch from California carrying the names. Insight will make its 6 month long journey to Mars, landing at a point fittingly called "Elysium Planitia, (Plain of Ideal Happiness)". To get an idea of just how far this is, check out how these Web Developers represent this journey<a href="http://www.distancetomars.com/"> in pixels! =)</a>.
+</p>
+<p>
+	I'm so stoked today because I get to be part of Mars' history.
+	If you'd like to learn more or you want to be my Martian neighbor, you can do so by clicking <a href="http://mars.nasa.gov/participate/send-your-name/orion-first-flight/">here!</a>
+</p>]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Google vs the Human Condition]]></title>
